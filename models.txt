@@ -1,0 +1,13 @@
+Socia Networking Sites Includes:
+-Blogs (Blogger.com)
+-Communites(FaceBook)
+-Movements(Twitter)
+-Photos(Flickr)
+-Videos(YouTube)
+
+  User
+  Comments
+  Likes
+  Feeds
+
+
